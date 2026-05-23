@@ -1,0 +1,13 @@
+{
+  "block.hoppergadgetry.chute": "Дерев’яна лійка",
+  "block.hoppergadgetry.duct": "Трубопровід",
+  "block.hoppergadgetry.grated_hopper": "Решітчаста лійка",
+  "container.chute": "Дерев’яна лійка",
+  "container.duct": "Трубопровід",
+  "container.grated_hopper": "Решітчаста лійка",
+  "entity.hoppergadgetry.chute_minecart": "Вагонетка з дерев’яною лійкою",
+  "entity.hoppergadgetry.grated_hopper_minecart": "Вагонетка з решітчастою лійкою",
+  "item.hoppergadgetry.chute_minecart": "Вагонетка з дерев’яною лійкою",
+  "item.hoppergadgetry.grated_hopper_minecart": "Вагонетка з решітчастою лійкою",
+  "itemGroup.hoppergadgetry.main": "Hopper Gadgetry"
+}
