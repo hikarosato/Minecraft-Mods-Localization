@@ -1,6 +1,6 @@
 {
   "chunkloaders.item_group": "Chunk Loaders",
-  "chunkloaders.chunk_loader.info.single": "Завантажує один чанк",
+  "chunkloaders.chunk_loader.info.single": "Завантажує 1 чанк",
   "chunkloaders.chunk_loader.info.multiple": "Завантажує чанки в області %1$d на %1$d",
   "chunkloaders.keys.category": "Chunk Loaders",
   "chunkloaders.keys.open_screen": "Переглянути завантажувачі чанків",

@@ -1,13 +1,13 @@
 {
-  "block.hoppergadgetry.chute": "Дерев’яна воронка",
+  "block.hoppergadgetry.chute": "Дерев'яна воронка",
   "block.hoppergadgetry.duct": "Трубопровід",
   "block.hoppergadgetry.grated_hopper": "Решітчаста воронка",
-  "container.chute": "Дерев’яна воронка",
+  "container.chute": "Дерев'яна воронка",
   "container.duct": "Трубопровід",
   "container.grated_hopper": "Решітчаста воронка",
-  "entity.hoppergadgetry.chute_minecart": "Вагонетка з дерев’яна воронка",
+  "entity.hoppergadgetry.chute_minecart": "Вагонетка з дерев'яна воронка",
   "entity.hoppergadgetry.grated_hopper_minecart": "Вагонетка з решітчаста воронка",
-  "item.hoppergadgetry.chute_minecart": "Вагонетка з дерев’яна воронка",
+  "item.hoppergadgetry.chute_minecart": "Вагонетка з дерев'яна воронка",
   "item.hoppergadgetry.grated_hopper_minecart": "Вагонетка з решітчаста воронка",
   "itemGroup.hoppergadgetry.main": "Hopper Gadgetry"
 }
