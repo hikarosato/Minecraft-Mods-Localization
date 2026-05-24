@@ -3,5 +3,7 @@
   "container.hopper": "Воронка",
   "entity.minecraft.hopper_minecart": "Вагонетка з воронкою",
   "item.minecraft.hopper_minecart": "Вагонетка з воронкою",
-  "stat.minecraft.inspect_hopper": "Воронок обшукано"
+  "stat.minecraft.inspect_hopper": "Воронок обшукано",
+  
+  "block.minecraft.packed_ice": "Спресований лід"
 }
