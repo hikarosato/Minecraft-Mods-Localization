@@ -2,5 +2,6 @@
   "block.minecraft.hopper": "Воронка",
   "container.hopper": "Воронка",
   "entity.minecraft.hopper_minecart": "Вагонетка з воронкою",
-  "item.minecraft.hopper_minecart": "Вагонетка з воронкою"
+  "item.minecraft.hopper_minecart": "Вагонетка з воронкою",
+  "stat.minecraft.inspect_hopper": "Воронок обшукано"
 }
