@@ -244,6 +244,11 @@
   "tooltip.farmersdelight.cooking_pot.empty": "Порожня",
   "tooltip.farmersdelight.cooking_pot.single_serving": "Містить 1 порцію:",
   "tooltip.farmersdelight.cooking_pot.many_servings": "Містить %s порцій:",
+  
+  "farmersdelight.tooltip.cooking_pot.empty": "Порожній",
+  "farmersdelight.tooltip.cooking_pot.single_serving": "Містить 1 кухоль:",
+  "farmersdelight.tooltip.cooking_pot.many_servings": "Містить %s кухлів:",
+  
   "tooltip.farmersdelight.dog_food.when_feeding": "Якщо згодувати прирученому вовку:",
   "tooltip.farmersdelight.horse_feed.when_feeding": "Якщо згодувати прирученому коню:",
   "tooltip.farmersdelight.milk_bottle": "Знімає 1 ефект",
