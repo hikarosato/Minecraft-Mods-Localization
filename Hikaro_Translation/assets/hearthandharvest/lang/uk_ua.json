@@ -167,6 +167,9 @@
   "item.hearthandharvest.watering_can": "Лійка",
   "item.hearthandharvest.universal_feed": "Корм для тварин",
 
+  "item.hearthandharvest.seed_pouch": "Мішечок для насіння",
+  "tooltip.hearthandharvest.seed_pouch.empty": "Порожній",
+  "tooltip.hearthandharvest.seed_pouch.contents": "%1$s: %2$s",
   "item.hearthandharvest.mead": "Медовуха",
   "item.hearthandharvest.root_beer": "Кореневе пиво",
   "item.hearthandharvest.hard_cider": "Міцний сидр",
