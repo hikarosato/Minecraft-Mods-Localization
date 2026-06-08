@@ -5,9 +5,9 @@
   "container.chute": "Дерев'яна воронка",
   "container.duct": "Трубопровід",
   "container.grated_hopper": "Решітчаста воронка",
-  "entity.hoppergadgetry.chute_minecart": "Вагонетка з дерев'яна воронка",
-  "entity.hoppergadgetry.grated_hopper_minecart": "Вагонетка з решітчаста воронка",
-  "item.hoppergadgetry.chute_minecart": "Вагонетка з дерев'яна воронка",
-  "item.hoppergadgetry.grated_hopper_minecart": "Вагонетка з решітчаста воронка",
+  "entity.hoppergadgetry.chute_minecart": "Вагонетка з дерев'яною воронкою",
+  "entity.hoppergadgetry.grated_hopper_minecart": "Вагонетка з решітчастою воронкою",
+  "item.hoppergadgetry.chute_minecart": "Вагонетка з дерев'яною воронкою",
+  "item.hoppergadgetry.grated_hopper_minecart": "Вагонетка з решітчастою воронкою",
   "itemGroup.hoppergadgetry.main": "Hopper Gadgetry"
 }
