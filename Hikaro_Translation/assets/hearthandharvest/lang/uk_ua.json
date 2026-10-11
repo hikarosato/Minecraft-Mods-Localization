@@ -31,8 +31,8 @@
   "container.hearthandharvest.cask.minutes": "%s хв",
   "container.hearthandharvest.cask.seconds": "%s с",
 
-  "tooltip.hearthandharvest.servings": "Порції: %s/%s",
-  "tooltip.hearthandharvest.glasses": "Келихи: %s/%s",
+  "tooltip.hearthandharvest.servings": "Порцій: %s/%s",
+  "tooltip.hearthandharvest.glasses": "Келихів: %s/%s",
   "tooltip.hearthandharvest.cures": "Лікує %s",
   "tooltip.hearthandharvest.vintage.1": "Витримане",
   "tooltip.hearthandharvest.vintage.2": "Добірне",
